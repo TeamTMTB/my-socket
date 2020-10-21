@@ -154,7 +154,7 @@ const App = () => {
         <TextArea
           value={message}
           onChange={handleChange}
-          placeholder="Say something..."
+          placeholder="Say something...."
         />
         <Button>Send</Button>
       </Form>
